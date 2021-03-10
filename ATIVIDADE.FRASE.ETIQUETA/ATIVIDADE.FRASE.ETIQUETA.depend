@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1601058246 source:c:\users\sabrina e renata\documents\docs\fatec\code\atividade.frase.etiqueta\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<limits.h>
+
+1601058246 source:c:\users\sabrina e renata\documents\docs\fatec\code\exercÍcio 2\atividade.frase.etiqueta\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<limits.h>
+

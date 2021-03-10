@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1601059391 source:c:\users\sabrina e renata\documents\docs\fatec\code\menu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1600975238 source:c:\users\sabrina e renata\documents\docs\fatec\code\menu\untitled1.c
+	<stdio.h>
+	<locale.h>
+

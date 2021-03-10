@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1601058582 source:c:\users\sabrina e renata\documents\docs\fatec\code\tabela\main.c
+	<stdio.h>
+	<stdlib.h>
+	<LOCALE.h>
+	<limits.h>
+
+1600944180 source:c:\users\sabrina e renata\documents\docs\fatec\code\tabela\untitled1.c
+
+1601058582 source:d:\sabrina e renata\documents\workspace\ups github\iniciação a programação\tabela\main.c
+	<stdio.h>
+	<stdlib.h>
+	<LOCALE.h>
+	<limits.h>
+

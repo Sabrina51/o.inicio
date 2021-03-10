@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1601059110 source:c:\users\sabrina e renata\documents\docs\fatec\code\fde fatec\main.c
+	<stdint.h>
+	<locale.h>
+
